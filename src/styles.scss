@@ -161,28 +161,28 @@ main {
       border-radius: 10px;
       padding: 1rem;
     }
-    .bottom{
-        border-radius: 10px;
-        padding: 1rem;
-        h1{
-            font-size: 1.25rem;
+    .bottom {
+      border-radius: 10px;
+      padding: 1rem;
+      h1 {
+        font-size: 1.25rem;
+      }
+      .day {
+        width: calc(100% / 7);
+        span {
+          font-size: 0.6rem !important;
         }
-        .day{
-            width: calc(100%/7);
-            span{
-                font-size: 0.6rem !important;
-            }
-            .chart_column{
-                width: 30px !important;
-            }
+        .chart_column {
+          width: 30px !important;
         }
-        .total{
-            .report{
-                > p {
-                    font-size: 1.75rem;
-                }
-            }
+      }
+      .total {
+        .report {
+          > p {
+            font-size: 1.75rem;
+          }
         }
+      }
     }
   }
 }
