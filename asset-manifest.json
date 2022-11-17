@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Expenses-Chart-Component/static/css/main.77ea3530.css",
+    "main.js": "/Expenses-Chart-Component/static/js/main.abdb8909.js",
+    "index.html": "/Expenses-Chart-Component/index.html",
+    "static/media/logo.svg": "/Expenses-Chart-Component/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
+    "main.77ea3530.css.map": "/Expenses-Chart-Component/static/css/main.77ea3530.css.map",
+    "main.abdb8909.js.map": "/Expenses-Chart-Component/static/js/main.abdb8909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ea3530.css",
+    "static/js/main.abdb8909.js"
+  ]
+}
